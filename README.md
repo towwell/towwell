@@ -7,6 +7,6 @@ First, Let me introduce myself
          TLDR: I do codes 👨‍💻
 - Currently active programming language is PHP ༼ つ ◕_◕ ༽つ
 - However I also dabble in Java, HTML, Javascript, Angular, Python etc. 🐍
-- I take challenges as they are and try to make the fixes everyone wants
+- I take challenges as they are and optimization is a key factor in those challenges
 
 LinkedIn is the best place to contact me 
