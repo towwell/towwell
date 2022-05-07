@@ -7,4 +7,4 @@ First, Let me introduce myself
 - However I also dabble in Java, HTML, Javascript, Angular, Python etc. 🐍
 - I take challenges as they are and optimization is a key factor in those challenges
 
-LinkedIn is the best place to contact me 
+<a href="https://www.linkedin.com/in/irfan-iskandar-omar-016722108/">LinkedIn</a> is the best place to contact me 
