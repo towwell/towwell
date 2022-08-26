@@ -1,10 +1,10 @@
-First, Let me introduce myself
+Let me introduce myself
 
 - Hi, I’m Irfan Iskandar 👋
-- I make the beeps boop and the boops beep 
-         TLDR: I do codes 👨‍💻
+- Ideation and problem solving are my 2 favourite things about development 💡
+- Currently leveling up by getting by degree in Information Technology 🏫
 - Currently active programming language is PHP ༼ つ ◕_◕ ༽つ
 - However I also dabble in Java, HTML, Javascript, Angular, Python etc. 🐍
-- I take challenges as they are and optimization is a key factor in those challenges
+- I take on challenges as they are one at a time 🍕
 
 <a href="https://www.linkedin.com/in/irfan-iskandar-omar-016722108/">LinkedIn</a> is the best place to contact me 
