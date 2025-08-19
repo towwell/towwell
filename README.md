@@ -1,10 +1,8 @@
-Let me introduce myself
 
-- Hi, I’m Irfan Iskandar 👋
-- Ideation and problem solving are my 2 favourite things about development 💡
-- Currently leveling up by getting by degree in Information Technology 🏫
-- Currently active programming language is PHP ༼ つ ◕_◕ ༽つ
+- Hi, I’m Irfan 👋
+- Ideation and Thinking Out of The Box are my 2 favourite things about code development 💡
+- Currently active programming language is PHP & Python ༼ つ ◕_◕ ༽つ 
 - However I also dabble in Java, HTML, Javascript, Angular, Python etc. 🐍
-- I take on challenges as they are one at a time 🍕
+- I take on challenges as one slice at a time 🍕
 
 <a href="https://www.linkedin.com/in/irfan-iskandar-omar-016722108/">LinkedIn</a> is the best place to contact me 
